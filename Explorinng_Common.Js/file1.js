@@ -1,3 +1,3 @@
-const x = require('./file2');
+const {a} = require('./file2');
 
-console.log(x);
+console.log(a);
